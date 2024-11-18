@@ -1,0 +1,30 @@
+1) What is node.js?
+-> Node.js is cross-platform, open source java script run time environment its allow you to run java script code out side browser,
+its make chrom v8 engine to high performance.its allow java script code convert directly in machine code. node.js allow devloper
+to use java script for server side scripting and built full-stack application use single language.
+
+2) What is server?
+-> A server or system provide data,resources and services to other computer,known as client server on a network.
+server response to requst from client such as client browser and provide data and executing task.
+
+3) What is cross platform?
+-> Cross platform refer to software and run multiple opreting system,like windows,macos and linux.without nide 
+rewritten code for any each platform.
+
+4) What is server-side scripting language?
+-> Server-side scripting invols and write code and run on server,rather than client browser. This allow dynamic and custmize
+user response to request such as feching data form database rendring it on a web page.
+
+5) What is REPL?
+R-Read, E-Evul, P-Print, L-Loop
+-> R- Read java script code
+    E- Evulation code writ in terminal
+   P-Print above code
+  L-Not given command then loop is not exiting and countinue started.
+
+6) What is module?
+-> To do import and export data known as module.
+	Basically three type of module:
+	(1)Core Module
+	(2)Local Module
+	(3)Third-party Module
